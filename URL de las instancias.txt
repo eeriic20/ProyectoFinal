@@ -1,0 +1,9 @@
+PROYECTO JIRA SOFTWARE:
+https://grupofjeremias1.atlassian.net/jira/software/c/projects/JRRHH/boards/2
+
+PROYECTO JIRA SERVICE MANAGMENT:
+https://grupofjeremias2.atlassian.net/jira/servicedesk/projects/JI/queues/custom/19
+
+PORTAL DE JIRA SERVICE MANAGMENT:
+https://grupofjeremias2.atlassian.net/servicedesk/customer/por
+tal/1
