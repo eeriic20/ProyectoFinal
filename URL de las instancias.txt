@@ -1,5 +1,14 @@
-PROYECTO JIRA SOFTWARE:
+PROYECTO JIRA SOFTWARE RRHH:
 https://grupofjeremias1.atlassian.net/jira/software/c/projects/JRRHH/boards/2
+
+
+
+
+PROYECTO JIRA SOFTWARE DEsarrollo:
+https://grupofjeremias3.atlassian.net/jira/software/c/projects/JD/boards/2
+
+
+
 
 PROYECTO JIRA SERVICE MANAGMENT:
 https://grupofjeremias2.atlassian.net/jira/servicedesk/projects/JI/queues/custom/19
@@ -7,3 +16,13 @@ https://grupofjeremias2.atlassian.net/jira/servicedesk/projects/JI/queues/custom
 PORTAL DE JIRA SERVICE MANAGMENT:
 https://grupofjeremias2.atlassian.net/servicedesk/customer/por
 tal/1
+
+
+
+Usuario con permisos de administrador:
+cuentadeejemplojira1@gmail.com
+Hola-Adios1234
+
+Usuario con permisos de técnico:
+cuentadeejemplojira2@gmail.com
+Hola-Adios1234
