@@ -1,5 +1,5 @@
 PROYECTO JIRA SOFTWARE RRHH:
-https://grupofjeremias1.atlassian.net/jira/software/c/projects/JRRHH/boards/2
+https://grupofjeremias.atlassian.net/jira/software/c/projects/JR/boards/2
 
 
 
